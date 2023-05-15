@@ -4,7 +4,7 @@ iOSのIAPにおいて、他アプリのレシートと入れ替えると通っ�
 このアプリは、簡単にレシートを取得できるアプリなので、アプリのIAPのレシート偽装の脆弱性の診断に便利です。
 対策は、ちゃんとレシートの発行先アプリ名を確認することです。
 
-![スクリーンショット](screenshot/screenshot.png)
+<img src="screenshot/screenshot.png" width="25%" border="1" />
 
 ## 使い方
 
